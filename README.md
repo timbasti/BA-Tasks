@@ -1,7 +1,6 @@
 # BA-Tasks
 Aufgaben für die BA
 
-
 ## Aufgaben KW 11
 - [ ] (Mär 21) Fehlende Parameter serialisieren
   - [ ] EnumParameter
@@ -16,3 +15,8 @@ Aufgaben für die BA
   - [ ] Alternative/Hübsche Darstellung überlegen zum Anzeigen und Herunterladen
 - [ ] (Mär 21) ProgressUpdater als REST client
   - [ ] Endpunkt zum Speichern des Fortschritts
+- [ ] Serialisierung von Tools anpassen
+  - [ ] getVersion
+  - [ ] getHelpText
+  - [ ] getReferences
+- [ ] Formulare besorgen
