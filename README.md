@@ -10,7 +10,7 @@ Aufgaben für die BA
   - [x] Anzeige der Version
   - [x] Anzeige des Hilfe-Texts
   - [x] Laden der Parameter für ausgewähltes Tool
-- [ ] (Mär 21) Fehlende Parameter serialisieren
+- [x] (Mär 21) Fehlende Parameter serialisieren
   - [x] EnumParameter -> Hinweis: Deserialisierung als SelectionParameter
   - [x] DataColumnParameter
   - [x] Laden der Spalten aus referenzierter Datei in FileParameter
