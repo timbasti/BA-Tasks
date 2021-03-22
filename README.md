@@ -3,24 +3,24 @@ Aufgaben für die BA
 
 ## Aufgaben KW 11
 - [ ] Formulare besorgen
-  - [ ] E-Mail an Kathleen
-- [ ] (Mär 21) Auswahl für Projekte anpassen
-  - [ ] Styling
-  - [ ] Anzeige von Werkzeug-Namen (ggf. Klasse im Tooltip)
-  - [ ] Anzeige der Version
-  - [ ] Anzeige des Hilfe-Texts
-  - [ ] Laden der Parameter für ausgewähltes Tool
+  - [x] E-Mail an Kathleen
+- [x] (Mär 21) Auswahl für Projekte anpassen
+  - [x] Styling
+  - [x] Anzeige von Werkzeug-Namen (ggf. Klasse im Tooltip)
+  - [x] Anzeige der Version
+  - [x] Anzeige des Hilfe-Texts
+  - [x] Laden der Parameter für ausgewähltes Tool
 - [ ] (Mär 21) Fehlende Parameter serialisieren
-  - [ ] EnumParameter -> Hinweis: Deserialisierung als SelectionParameter
-  - [ ] DataColumnParameter
-  - [ ] Laden der Spalten aus referenzierter Datei in FIleParameter
-  - [ ] FileParameter: Vorschau von Dateien
+  - [x] EnumParameter -> Hinweis: Deserialisierung als SelectionParameter
+  - [x] DataColumnParameter
+  - [x] Laden der Spalten aus referenzierter Datei in FileParameter
+  - [x] FileParameter: Vorschau von Dateien
 - [ ] Serialisierung von Tools anpassen
-  - [ ] getVersion
-  - [ ] getHelpText -> Problem mit NullPointerException
-  - [ ] getReferences
+  - [x] getVersion
+  - [x] getHelpText -> Problem mit NullPointerException
+  - [x] getReferences
 - [ ] (Mär 21) Projekte ausführen und Ergebnisse in Oberfläche herunterladen
-  - [ ] Bereich für Ergebnisse anlegen
+  - [x] Bereich für Ergebnisse anlegen
   - [ ] Parameter für ausgewähltes Tool zum Service senden und Tool ausführen
   - [ ] Einfache Listen Darstellung mit Links
   - [ ] Alternative/Hübsche Darstellung überlegen zum Anzeigen und Herunterladen
